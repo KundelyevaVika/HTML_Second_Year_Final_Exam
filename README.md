@@ -22,4 +22,4 @@ HTML5, CSS3 (Flexbox, Grid, media queries, transitions), Bootstrap 5, Font Aweso
 ## How to run
 Open `index.html` in a browser.
 
-[Live demo](ссылка на GitHub Pages)
+[Live demo](https://kundelyevavika.github.io/HTML_Second_Year_Final_Exam/)
