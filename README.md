@@ -1,7 +1,7 @@
 # Tour Agency Landing Page
 
 A responsive single-page website for a fictional travel agency "TOUR-GUIDE", created as the
-final exam project of the second-year web development course at IT STEP, 2023.
+final exam project of the second-year web development course at IT STEP, 2022.
 
 The project focuses on layout, styling and responsive design; the text content is placeholder
 (Lorem ipsum).
